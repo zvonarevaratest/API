@@ -6,3 +6,5 @@
 [DemoShopping - Run results](DemoShopping.postman_test_run.json)
 
 [Тестирование SOAP-сервиса в Postman](https://www.postman.com/test-team-5137/workspace/test-team-workspace/collection/35123022-b51d5d8e-8b32-4c4e-ba46-fa2f0a79880e?action=share&creator=35123022)
+
+[Ссылка на тест-кейсы для API DemoShopping](API_Testing_Rimma_Zvonareva.pdf)
